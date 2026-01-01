@@ -1,4 +1,72 @@
-eaassADasdad
-e
-we
-sfwf# gi
+{ 
+    "mods" : [
+      {
+         "name" : "Essential" ; 
+         "gitPath" : "EssentialGG/Essential-Mod" ; 
+         "releaseId" : "1" ;
+         "author" : "EssentialGG" ;
+      },
+      {
+          "name" : "Fabric-API" ; 
+         "gitPath" : "FabricMC/fabric-api" ; 
+         "releaseId" : "0" ;
+         "author" : "FabricMC" ;
+      },
+      {
+          "name" : "Just Enough Items" ; 
+         "gitPath" : "mezz/JustEnoughItems" ; 
+         "releaseId" : "0" ;
+         "author" : "mezz" ;
+      },
+      {
+          "name" : "GeckoLib" ; 
+         "gitPath" : "bernie-g/geckolib" ; 
+         "releaseId" : "0" ;
+         "author" : "bernie-g" ;
+      },
+      {
+          "name" : "Cloth Config API" ; 
+         "gitPath" : "shedaniel/cloth-config" ; 
+         "releaseId" : "0" ;
+         "author" : "shedaniel" ;
+      },
+      {
+          "name" : "Architectury API" ; 
+         "gitPath" : "architectury/architectury-api" ; 
+         "releaseId" : "0" ;
+         "author" : "architectury" ;
+
+      },
+      {
+          "name" : "Mouse Tweaks" ; 
+         "gitPath" : "YaLTeR/MouseTweaks" ; 
+         "releaseId" : "0" ;
+         "author" : "YaLTeR" ;
+      },
+      {
+          "name" : "AppleSkin" ; 
+         "gitPath" : "squeek502/AppleSkin" ; 
+         "releaseId" : "0" ;
+         "author" : "squeek502" ;
+      },
+      {
+          "name" : "Balm" ; 
+         "gitPath" : "TwelveIterationMods/Balm" ; 
+         "releaseId" : "0" ;
+         "author" : "TwelveIterationMods" ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
